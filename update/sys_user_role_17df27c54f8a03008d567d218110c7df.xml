@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_65404_self_track.user</name>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-25 08:21:20</sys_created_on>
+        <sys_id>17df27c54f8a03008d567d218110c7df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_65404_self_track.user</sys_name>
+        <sys_package display_value="Self Tracker" source="x_65404_self_track">9fdfe70d4f0a03008d567d218110c7ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Self Tracker">9fdfe70d4f0a03008d567d218110c7ec</sys_scope>
+        <sys_update_name>sys_user_role_17df27c54f8a03008d567d218110c7df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-25 08:21:20</sys_updated_on>
+    </sys_user_role>
+</record_update>
